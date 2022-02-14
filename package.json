@@ -1,0 +1,28 @@
+{
+  "name": "ahmed-and-jehad-github-api-ws",
+  "version": "1.0.0",
+  "description": "In this workshop we'll build on things we've learnt so far by using the GitHub API in order to practise:",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSG-G11/Ahmed-And-jehad-github-api-ws.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/GSG-G11/Ahmed-And-jehad-github-api-ws/issues"
+  },
+  "homepage": "https://github.com/GSG-G11/Ahmed-And-jehad-github-api-ws#readme",
+  "devDependencies": {
+    "jest": "^27.5.1",
+    "nyc": "^15.1.0",
+    "qunit": "^2.17.2"
+  }
+}
